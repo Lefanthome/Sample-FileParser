@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Sample.Parser.FileParser\Sample.Parser.Tools.csproj" />
+    <ProjectReference Include="..\Sample.Parser.Tools\Sample.Parser.Tools.csproj" />
   </ItemGroup>
 
 </Project>
